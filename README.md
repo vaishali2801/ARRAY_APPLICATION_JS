@@ -112,6 +112,6 @@ Special thanks to mentors and learning resources that guided this project and en
 ⭐ Support
 
 If you like this project, don’t forget to star ⭐ the repository and share your feedback!
-<img width="1280" height="678" alt="Screenshot 2025-12-30 at 8 00 21 PM" src="https://github.com/user-attachments/assets/8a96ac2b-d9d7-4889-9d93-55c402b6ec28" />
 
+<img width="1280" height="676" alt="Screenshot 2026-01-01 at 8 53 50 PM" src="https://github.com/user-attachments/assets/5c8e5d60-72da-47b7-b1f6-b57ef4fbff53" />  
 
